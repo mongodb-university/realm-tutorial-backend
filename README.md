@@ -30,7 +30,7 @@ for more information.
 Once created, pass the API keys to `realm-cli login` to log in:
 
 ```bash
-realm-cli login --api-key=[public API key] --private-api-key=[private API key]
+realm-cli login --api-key=<public API key> --private-api-key=<private API key>
 ```
 
 ## 4. Import the Realm backend app
@@ -38,7 +38,8 @@ realm-cli login --api-key=[public API key] --private-api-key=[private API key]
 If logged in successfully, you can now import the app:
 
 ```bash
-realm-cli import --app-name tasktracker --path ./backend/
+cd tasktracker
+realm-cli import
 ```
 
 Follow the prompts and wait for the app to deploy.
