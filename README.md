@@ -38,7 +38,7 @@ realm-cli login --api-key=<public API key> --private-api-key=<private API key>
 If logged in successfully, you can now import the app:
 
 ```bash
-cd tasktracker
+cd realm-tutorial-backend
 realm-cli import
 ```
 
