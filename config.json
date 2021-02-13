@@ -1,7 +1,8 @@
 {
+    "app_id": "timetracker-segth",
     "config_version": 20200603,
-    "name": "tasktracker",
-    "location": "US-VA",
+    "name": "timetracker",
+    "location": "IE",
     "deployment_model": "GLOBAL",
     "security": {},
     "custom_user_data_config": {

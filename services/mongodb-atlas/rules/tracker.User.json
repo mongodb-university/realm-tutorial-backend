@@ -1,6 +1,7 @@
 {
     "collection": "User",
     "database": "tracker",
+    "id": "602790f3a2da11cc83536a39",
     "roles": [
         {
             "name": "default",

@@ -1,8 +1,9 @@
 {
+    "id": "602790f3a2da11cc83536a01",
     "name": "mongodb-atlas",
     "type": "mongodb-atlas",
     "config": {
-        "clusterName": "Cluster0",
+        "clusterName": "yield-cluster",
         "readPreference": "primary",
         "sync": {
             "state": "enabled",
