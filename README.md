@@ -1,3 +1,7 @@
+> [!Warning]
+> Atlas App Services has reached its end-of-life status and is no longer actively supported by MongoDB.
+
+<del>
 # Get Started
 
 ## 1. Install `mongodb-realm-cli`
@@ -55,4 +59,5 @@ This repo is automatically derived from our main docs repo. If you'd like to
 submit a pull request -- thanks! -- please feel free to do so at
 https://github.com/mongodb/docs-realm/ (see the tutorial/ subdirectory).
 
+</del>
 
